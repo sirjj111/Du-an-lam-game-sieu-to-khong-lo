@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 0DDDF29D
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "moveup_tanker"
-/// @DnDSaveInfo : "spriteind" "moveup_tanker"
-sprite_index = moveup_tanker;
+/// @DnDArgument : "spriteind" "dilen_dodon"
+/// @DnDSaveInfo : "spriteind" "dilen_dodon"
+sprite_index = dilen_dodon;
 image_index += 0;

@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 4F26748D
 /// @DnDArgument : "spriteind" "thosan_right"
 /// @DnDSaveInfo : "spriteind" "thosan_right"
-sprite_index = thosan_right;
+sprite_index = phai_thosan;
 image_index = 0;

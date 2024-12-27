@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 2B4AB989
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "moveright_tanker"
-/// @DnDSaveInfo : "spriteind" "moveright_tanker"
-sprite_index = moveright_tanker;
+/// @DnDArgument : "spriteind" "sangphai_dodon"
+/// @DnDSaveInfo : "spriteind" "sangphai_dodon"
+sprite_index = sangphai_dodon;
 image_index += 0;

@@ -12,7 +12,7 @@ speed = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 313B149C
-/// @DnDArgument : "spriteind" "left_tanker"
-/// @DnDSaveInfo : "spriteind" "left_tanker"
-sprite_index = left_tanker;
+/// @DnDArgument : "spriteind" "trai_dodon"
+/// @DnDSaveInfo : "spriteind" "trai_dodon"
+sprite_index = trai_dodon;
 image_index = 0;

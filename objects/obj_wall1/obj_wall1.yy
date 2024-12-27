@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_wall1",
-    "path":"sprites/spr_wall1/spr_wall1.yy",
+    "name":"spr_tuong1",
+    "path":"sprites/spr_tuong1/spr_tuong1.yy",
   },
   "spriteMaskId":null,
   "visible":false,

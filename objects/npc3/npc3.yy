@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"mvdown_npc3",
-    "path":"sprites/mvdown_npc3/mvdown_npc3.yy",
+    "name":"dixuong_npc3",
+    "path":"sprites/dixuong_npc3/dixuong_npc3.yy",
   },
   "spriteMaskId":null,
   "visible":true,

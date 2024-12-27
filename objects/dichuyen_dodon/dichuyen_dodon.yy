@@ -44,8 +44,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"down_tanker",
-    "path":"sprites/down_tanker/down_tanker.yy",
+    "name":"xuong_dodon",
+    "path":"sprites/xuong_dodon/xuong_dodon.yy",
   },
   "spriteMaskId":null,
   "visible":true,

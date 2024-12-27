@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 516A0CDD
 /// @DnDArgument : "spriteind" "down_tanker"
 /// @DnDSaveInfo : "spriteind" "down_tanker"
-sprite_index = down_tanker;
+sprite_index = xuong_dodon;
 image_index = 0;

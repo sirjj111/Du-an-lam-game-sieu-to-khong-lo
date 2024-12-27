@@ -16,5 +16,5 @@ speed = 3;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "thosan_moveup"
 /// @DnDSaveInfo : "spriteind" "thosan_moveup"
-sprite_index = thosan_moveup;
+sprite_index = dilen_thosan;
 image_index += 0;

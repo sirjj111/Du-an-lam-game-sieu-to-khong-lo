@@ -44,8 +44,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"thosan_down",
-    "path":"sprites/thosan_down/thosan_down.yy",
+    "name":"xuong_thosan",
+    "path":"sprites/xuong_thosan/xuong_thosan.yy",
   },
   "spriteMaskId":null,
   "visible":true,

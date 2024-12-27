@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 5B5B331D
 /// @DnDArgument : "spriteind" "thosan_left"
 /// @DnDSaveInfo : "spriteind" "thosan_left"
-sprite_index = thosan_left;
+sprite_index = trai_thosan;
 image_index = 0;

@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"mvdown_npc14",
-    "path":"sprites/mvdown_npc14/mvdown_npc14.yy",
+    "name":"dixuong_npc14",
+    "path":"sprites/dixuong_npc14/dixuong_npc14.yy",
   },
   "spriteMaskId":null,
   "visible":true,
