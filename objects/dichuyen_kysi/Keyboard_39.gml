@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 015A440E
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "kysi_moveright"
-/// @DnDSaveInfo : "spriteind" "kysi_moveright"
+/// @DnDArgument : "spriteind" "sangphai_kysi"
+/// @DnDSaveInfo : "spriteind" "sangphai_kysi"
 sprite_index = sangphai_kysi;
 image_index += 0;

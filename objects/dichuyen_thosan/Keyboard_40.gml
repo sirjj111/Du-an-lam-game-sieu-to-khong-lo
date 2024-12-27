@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 73A4F52F
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "thosan_movedown"
-/// @DnDSaveInfo : "spriteind" "thosan_movedown"
+/// @DnDArgument : "spriteind" "dixuong_thosan"
+/// @DnDSaveInfo : "spriteind" "dixuong_thosan"
 sprite_index = dixuong_thosan;
 image_index += 0;

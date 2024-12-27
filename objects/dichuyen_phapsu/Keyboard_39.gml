@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 7EB4F061
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "moveright_phapsu"
-/// @DnDSaveInfo : "spriteind" "moveright_phapsu"
+/// @DnDArgument : "spriteind" "sangphai_phapsu"
+/// @DnDSaveInfo : "spriteind" "sangphai_phapsu"
 sprite_index = sangphai_phapsu;
 image_index += 0;

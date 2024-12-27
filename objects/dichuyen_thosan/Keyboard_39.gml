@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 00B65232
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "thosan_moveright"
-/// @DnDSaveInfo : "spriteind" "thosan_moveright"
+/// @DnDArgument : "spriteind" "sangphai_thoson"
+/// @DnDSaveInfo : "spriteind" "sangphai_thoson"
 sprite_index = sangphai_thoson;
 image_index += 0;

@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 56034952
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "kysi_moveup"
-/// @DnDSaveInfo : "spriteind" "kysi_moveup"
+/// @DnDArgument : "spriteind" "dilen_kysi"
+/// @DnDSaveInfo : "spriteind" "dilen_kysi"
 sprite_index = dilen_kysi;
 image_index += 0;

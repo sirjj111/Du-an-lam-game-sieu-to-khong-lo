@@ -44,8 +44,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"xuong_knight",
-    "path":"sprites/xuong_knight/xuong_knight.yy",
+    "name":"xuong_kysi",
+    "path":"sprites/xuong_kysi/xuong_kysi.yy",
   },
   "spriteMaskId":null,
   "visible":true,

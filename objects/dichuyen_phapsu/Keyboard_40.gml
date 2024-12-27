@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 700C8749
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "movedown_phapsu"
-/// @DnDSaveInfo : "spriteind" "movedown_phapsu"
+/// @DnDArgument : "spriteind" "dixuong_phapsu"
+/// @DnDSaveInfo : "spriteind" "dixuong_phapsu"
 sprite_index = dixuong_phapsu;
 image_index += 0;

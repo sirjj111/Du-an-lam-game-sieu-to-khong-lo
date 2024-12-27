@@ -14,7 +14,7 @@ speed = 3;
 /// @DnDVersion : 1
 /// @DnDHash : 11C00CFE
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "kysi_moveleft"
-/// @DnDSaveInfo : "spriteind" "kysi_moveleft"
-sprite_index = sangtrai_kysi;
+/// @DnDArgument : "spriteind" "dixuong_kysi"
+/// @DnDSaveInfo : "spriteind" "dixuong_kysi"
+sprite_index = dixuong_kysi;
 image_index += 0;

@@ -12,7 +12,7 @@ speed = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 5E542740
-/// @DnDArgument : "spriteind" "down_phapsu"
-/// @DnDSaveInfo : "spriteind" "down_phapsu"
+/// @DnDArgument : "spriteind" "xuong_phapsu"
+/// @DnDSaveInfo : "spriteind" "xuong_phapsu"
 sprite_index = xuong_phapsu;
 image_index = 0;
